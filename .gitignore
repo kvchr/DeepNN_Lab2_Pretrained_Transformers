@@ -1,0 +1,8 @@
+# files created when the notebook runs locally (the published results are in results/)
+outputs/
+outputs_smoke/
+lab2_outputs.zip
+lab2_outputs_smoke.zip
+smoke_test.ipynb
+__pycache__/
+.ipynb_checkpoints/
